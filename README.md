@@ -3,9 +3,9 @@
 
 ---
 <img src="/img/Baner.png">
-- 📫 Write me: luis.david080997@gmail.com
----
+- 📫 Write me: *** luis.david080997@gmail.com ***
 
+---
 ## About Me
 
 - I'm from mexico.
