@@ -4,6 +4,15 @@
 ---
 <img src="/img/Baner.png">
 - 📫 How to reach me **luis.david080997@gmail.com**
+---
+
+## About Me
+
+- I'm from mexico.
+- I studied at the ESCOM of the Instituto Politecnico Nacional. 🖤
+- Developer of desktop and web applications.
+- Back-end fanboy.
+- Videogame developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
