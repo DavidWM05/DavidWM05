@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis David Peralta Gonzalez</h1>
 <h3 align="center">A passionate software developer from Mexico with a desire to learn something new every day.</h3>
+
 ---
+
 - 📫 How to reach me **luis.david080997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
